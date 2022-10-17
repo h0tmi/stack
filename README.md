@@ -1,0 +1,2 @@
+# Stack
+Simple stack implementation.
